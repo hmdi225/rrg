@@ -28,4 +28,4 @@ Source: ...
 2. Https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5288706.pdf
 3. Https://cabinsofbirchhollow.com/tag/canoeing-in-red-river-gorge/
 
-Hayden Dickens
+Hayden Dickens, February, 2019
