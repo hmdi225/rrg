@@ -1,2 +1,2 @@
 # rrg
-Welcome to the Red River Gorge arches
+Welcome to Arches in the Red River Gorge
