@@ -1,5 +1,5 @@
 <!-- Heading 1 -->
-# Red River Gorge 
+# Welcome to the Red River Gorge 
 
 <!-- First paragraph -->
 Welcome to my page about Red River Gorge located in Eastern Kentucky.
