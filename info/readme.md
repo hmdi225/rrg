@@ -15,7 +15,8 @@ Welcome to my page about Red River Gorge located in Eastern Kentucky.
 [Map of Red River Gorge](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5288706.pdf)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
-![Red River Gorge](Natural-Bridge-in-Autumn_x1024.jpg)
+![Red River Gorge](Natural-Bridge-in-Autumn_x1024.jpg)    
+Source: ...
 
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 
